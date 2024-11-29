@@ -1,0 +1,7 @@
+# Ignorar arquivos de banco de dados
+psi.db
+
+# Ignorar outros arquivos temporários
+*.xlsx
+*.log
+__pycache__/
