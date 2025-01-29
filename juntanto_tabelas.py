@@ -15,7 +15,7 @@ try:
     # Recuperar os resultados da consulta
     resultados = cursor.fetchall()
 
-    # Exibir os resultados (ou processá-los conforme necessário)
+    # Exibir os resultados
     for linha in resultados:
         print(linha)
 
